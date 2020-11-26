@@ -1,0 +1,1 @@
+Projeto básico em js apenas para práticar.
